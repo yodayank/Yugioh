@@ -1,0 +1,119 @@
+	#ball1 {
+				padding: 20px;
+				width: 30px;
+				position: absolute; 
+				margin-top: 80px;
+				margin-left: 297px;
+			}
+			#ball2 {
+				padding: 20px;
+				width: 30px;
+				position: absolute; 
+				margin-top: 80px;
+				margin-left: 257px;
+			}
+			#ball3 {
+				padding: 20px;
+				width: 30px;
+				position: absolute; 
+				margin-top: 80px;
+				margin-left: 217px;
+			}
+			#ball4 {
+				padding: 20px;
+				width: 30px;
+				position: absolute; 
+				margin-top: 80px;
+				margin-left: 177px;
+			}
+			#ball5 {
+				padding: 20px;
+				width: 30px;
+				position: absolute; 
+				margin-top: 80px;
+				margin-left: 137px;
+			}
+			#ball6 {
+				padding: 20px;
+				width: 30px;
+				position: absolute; 
+				margin-top: 80px;
+				margin-left: 97px;
+			}
+			#ball7 {
+				padding: 20px;
+				width: 30px;
+				position: absolute; 
+				margin-top: 80px;
+				margin-left: 57px;
+			}
+		
+			
+			#image {
+				padding: 20px;
+				width: 290px;
+				border-radius: 7px;
+				background-repeat: no-repeat;
+				position: absolute;
+				margin-top: 125px;
+				margin-left: 36px;
+			}
+				
+				
+			#lower {
+				background-color: #E9CE9E;
+				text-align: left;
+				padding: 22px;
+				width: 272px;
+				height: 110px;
+				border: 4.5px solid red;
+				margin-top: 450px;
+				margin-left: 47px;
+				position: absolute;
+				font-size: 14px;
+				line-height: 5px;
+			
+				
+				
+			}
+
+			
+			#first {
+				background-color: #CD8B34;
+				padding: 20px;
+				width: 300px;
+				border-radius: 2px;
+				text-align: center;
+				margin-left: auto;
+				margin-right: auto;
+				border: 1px solid black;
+				background-image: url(http://vignette2.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/300?cb=20120918053832);
+				background-size: 45px;
+				background-repeat: no-repeat;
+				background-position: 287px;
+			
+				
+				}
+				
+				
+			#second {
+				background-color: #BF7F25;
+				padding: 20px;
+				width: 350px;
+				height: 600px;
+				border-radius: 15px;
+				border: 5px solid black;
+			}
+			
+			#lower h2 {
+				margin-top: -10px;
+				margin-left: -14px;
+			}
+			
+			#first h2 {
+				margin-top: 0px;
+				margin-bottom: 0px;
+				text-align: left;
+			}
+			
+			
